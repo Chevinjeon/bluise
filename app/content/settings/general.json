@@ -1,10 +1,10 @@
 {
   "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "titleTemplate": "|",
+  "welcomeText": "# Yo, I'm Chevin - I’m a second-year Computer Science Student at the University of Waterloo currently working at Ford R&D Center.\n\n I love working with software, artificial intelligence, and computer algorithms.\n\n My interests include exploring neuroscience, visualizing art of emotions and the intellect, and soft plushies have my whole heart."
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Quick and reliabe",
   "seoMetaImage": ""
 }
