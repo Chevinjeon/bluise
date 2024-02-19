@@ -1,7 +1,7 @@
 {
   "title": "Homev",
   "titleTemplate": "|",
-  "welcomeText": "# Yo, I'm Chevin - I’m a second-year Computer Science Student at the University of Waterloo currently working at Ford R&D Center.\n\n I love working with software, artificial intelligence, and computer algorithms.\n\n My interests include exploring neuroscience, visualizing art of emotions and the intellect, and soft plushies have my whole heart.",
+  "welcomeText": "# I'm Chevin - I’m a second-year Computer Science Student at the University of Waterloo.\n\n  Currently working at Ford R&D Center. \n\n I love working with software, artificial intelligence, and computer algorithms.\n\n My interests include exploring neuroscience, visualizing art of emotions and the intellect, and soft plushies have my whole heart.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
